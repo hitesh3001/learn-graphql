@@ -1,0 +1,94 @@
+{
+	"people": [
+		{
+			"id": 1000,
+			"first_name": "Brianna",
+			"last_name": "Stephenson",
+			"username": "brianna.stephenson",
+			"email": "justo.eu@Lorem.edu",
+			"friends": [
+				1001,
+				1004,
+				1006
+			]
+		},
+		{
+			"id": 1001,
+			"first_name": "Leslie",
+			"last_name": "Vasquez",
+			"username": "leslie.vasquez",
+			"email": "eu@Duiscursusdiam.co.uk",
+			"friends": [
+				1003,
+				1005
+			]
+		},
+		{
+			"id": 1002,
+			"first_name": "Garrison",
+			"last_name": "Douglas",
+			"username": "garrison.douglas",
+			"email": "rutrum@tristiquesenectuset.com",
+			"friends": [
+				1004
+			]
+		},
+		{
+			"id": 1003,
+			"first_name": "Jena",
+			"last_name": "Brady",
+			"username": "jena.brady",
+			"email": "blandit.Nam@Inat.ca",
+			"friends": [
+				1005,
+				1006
+			]
+		},
+		{
+			"id": 1004,
+			"first_name": "Evan",
+			"last_name": "Cain",
+			"username": "evan.cain",
+			"email": "sem.ut.dolor@etarcu.co.uk",
+			"friends": [
+				1001,
+				1004
+			]
+		},
+		{
+			"id": 1005,
+			"first_name": "Alexandra",
+			"last_name": "Evans",
+			"username": "alexandra.evans",
+			"email": "nisi.Mauris@Fuscealiquet.co.uk",
+			"friends": [
+				1002,
+				1003,
+				1006
+			]
+		},
+		{
+			"id": 1006,
+			"first_name": "Nigel",
+			"last_name": "May",
+			"username": "nigel.may",
+			"email": "semper.et@metussitamet.ca",
+			"friends": [
+				1002,
+				1005
+			]
+		},
+		{
+			"id": 1007,
+			"first_name": "Hitesh",
+			"last_name": "Somani",
+			"username": "hitesh.somani",
+			"email": "hitesh.so@gmail.com",
+			"friends": [
+				1002,
+				1005
+			]
+		}
+			
+	]
+}
